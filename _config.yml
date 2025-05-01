@@ -10,7 +10,7 @@ baseurl: ""
 repository: "anambashir/anambashir.github.io"
 
 author:
-  avatar: "profile.png"  # Upload a profile picture to /images/
+  avatar: "Headshot_Anam Bashir.jpeg"  # Upload a profile picture to /images/
   name: "Anam Bashir"
   pronouns: "she/her"
   bio: "PhD student at UBC | Urban Planning | Housing Justice"
