@@ -2,6 +2,7 @@
 layout: home
 title: "Anam Bashir"
 excerpt: "PhD student | Urban Planning | Housing Precarity | UBC"
+author_profile: true
 ---
 
 I am a PhD student at the School of Community and Regional Planning (SCARP) at the University of British Columbia.  
