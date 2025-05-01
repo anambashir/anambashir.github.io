@@ -1,4 +1,5 @@
-theme_skin: "sunrise"  # or "air", "mint", etc.
+minimal_mistakes_skin: "default"
+
 
 title: "Anam Bashir"
 title_separator: "-"
