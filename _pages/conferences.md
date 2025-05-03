@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ======
+
 I attended the following conferences:
 
 * UAA
