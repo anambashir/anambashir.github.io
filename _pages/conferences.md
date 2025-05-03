@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Conferences
 ======
+I attended the following conferences:
 
+* UAA
