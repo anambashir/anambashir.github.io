@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bashar Talafha"
+title                    : "Anam Bashir"
 title_separator          : "-"
-name                     : &name "Bashar Talafha"
+name                     : &name "Anam Bashir"
 description              : &description "personal description"
-url                      : https://bashartalafha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://anambashir.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bashartalafha/bashartalafha.github.io"
+repository               : "anambashir/anambashir.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &bashar_talafha
+  username               : &AnamBashir19
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bashar Talafha"
-  avatar           : "bashar_talafha.png"
-  bio              : "Ph.D. Candidate, UBC"
+  name             : "Anam Bashir"
+  avatar           : "anam_bashir.png"
+  bio              : "Ph.D. Student, UBC"
   location         : "Vancouver, Canada"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=0ZhSI1sAAAAJ&hl=en&oi=ao"
-  email            : "btalafha@student.ubc.ca"
-  researchgate     :  "https://www.researchgate.net/profile/Bashar-Talafha"
+  googlescholar    : "https://scholar.google.ca/citations?user=Gf5mAMYAAAAJ&hl=en&oi=ao"
+  email            : "anamb@student.ubc.ca"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bashartalafha"
+  github           : "anambashir"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/bashar-talafha/?originalSubdomain=jo"
-  orcid            : "https://orcid.org/0000-0002-4227-892X"
+  linkedin         : "https://www.linkedin.com/in/anam-bashir-269323140/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "bashar_talafha"
+  twitter          : "AnamBashir19"
   vine             :
   weibo            :
   xing             :
