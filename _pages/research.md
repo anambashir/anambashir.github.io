@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+hide_title: true
 ---
 
 I have worked in the development industry for over 5 years as a consultant with Oxford Policy Management, Monitoring and Evaluation Manager at Foreign, Commonwealth & Development Office (FCDO) and Data and Research Scientist at Girl Rising. 
