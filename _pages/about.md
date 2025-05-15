@@ -18,5 +18,6 @@ I am particularly interested in how tenants and newcomers exercise agency within
 # Honors & Awards:
 * 4-times Four-Year Fellowships (4YF), UBC / Ph.D. Award 
 * 4-times International Tuition Award, UBC / Ph.D. Award 
-* 4-times President’s Academic Excellence Initiative PhD Award, UBC / Ph.D. Award 
+* 4-times President’s Academic Excellence Initiative PhD Award, UBC / Ph.D. Award  
+
 
