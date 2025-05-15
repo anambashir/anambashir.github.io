@@ -53,7 +53,8 @@ This pilot project provided solar energy devices to vulnerable, off-grid communi
 **Years:** 2019–2020
 
 This national evaluation examined the viability of Pakistan’s Lady Health Workers Programme following devolution. I led the qualitative research across all provinces, conducting focus group discussions and stakeholder interviews with senior government officials. I also managed data analysis and co-authored the final evaluation report. The findings, presented at a national policy workshop, highlighted mixed outcomes in health indicators and implementation challenges, but reinforced the program’s value in expanding maternal and child healthcare.
-[Read evaluation report] (https://www.unicef.org/pakistan/media/3096/file/Performance%20Evaluation%20Report%20-%20Lady%20Health%20Workers%20Programme%20in%20Pakistan.pdf)
+[Read full evaluation report (PDF)](https://www.unicef.org/pakistan/media/3096/file/Performance%20Evaluation%20Report%20-%20Lady%20Health%20Workers%20Programme%20in%20Pakistan.pdf)
+
 
 ---
 
