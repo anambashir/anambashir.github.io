@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-======
 ### 2025
 
 **Living Underground in Vancouver: Studying Basement Suites Via Online Ads**  
