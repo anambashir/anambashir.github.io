@@ -7,14 +7,14 @@ author_profile: true
 
 ### Peer-Reviewed Journal Articles
 
-**Harten, J. G.**, Jones, C., Peñaloza, A., DeAngelis, M., **Bashir, A.**, & Leung, C. (2024).  
+Harten, J. G., Jones, C., Peñaloza, A., DeAngelis, M., **Bashir, A.**, & Leung, C. (2024).  
 *Lessons from the First Round of Mandatory Housing Needs Reporting in British Columbia, Canada*.  
 _Canadian Journal of Urban Research, 33_, 4–21.  
 [Link to article](https://cjur.uwinnipeg.ca/index.php/cjur/article/view/431)
 
 ---
 
-**Ashraf, M.**, Shahzad, S., Sequeria, P., **Bashir, A.**, & Azmat, S. K. (2024).  
+Ashraf, M., Shahzad, S., Sequeria, P., **Bashir, A.**, & Azmat, S. K. (2024).  
 *Understanding Challenges Women Face in Flood-Affected Areas to Access Sexual and Reproductive Health Services: A Rapid Assessment from a Disaster-Torn Pakistan*.  
 _BioMed Research International, 2024_, Article ID 1113634.  
 [DOI: 10.1155/2024/1113634](https://doi.org/10.1155/2024/1113634)
