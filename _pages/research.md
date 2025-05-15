@@ -35,22 +35,25 @@ This rapid mixed-methods study explored barriers faced by women in accessing rep
 ---
 
 ###  Impact Evaluation of Mwangaza Mashinani (Kenya)  
-**Role:** Quantitative Lead  
+**Role:** Quantitative Researcher Midline and Endline Evaluation 
 **Organization:** Oxford Policy Management (OPM) & UNICEF  
 **Location:** Kenya  
 **Years:** 2019–2021
 
 This pilot project provided solar energy devices to vulnerable, off-grid communities in Kilifi and Garissa counties. I led the quantitative components of the midline and endline evaluations, including survey instrument design, enumerator training, and data collection from over 2,000 households. Findings—shared through an interactive dashboard at a UNICEF conference—highlighted improvements in educational outcomes, though health and livelihood impacts were more modest. The results shaped program adjustments and informed decisions to scale the initiative in other regions.
+[Read evaluation reports](https://www.opml.co.uk/projects/assessing-a-cash-plus-approach-to-enhancing-clean-energy-access-in-kenya)
+
 
 ---
 
-###  Evaluation of Pakistan’s Lady Health Workers Programme  
-**Role:** Qualitative Lead and Co-author  
+###  Performance Evaluation of Pakistan’s Lady Health Workers Programme  
+**Role:** Qualitative Researcher  
 **Organization:** Oxford Policy Management (OPM) & UNICEF  
 **Location:** Pakistan  
 **Years:** 2019–2020
 
 This national evaluation examined the viability of Pakistan’s Lady Health Workers Programme following devolution. I led the qualitative research across all provinces, conducting focus group discussions and stakeholder interviews with senior government officials. I also managed data analysis and co-authored the final evaluation report. The findings, presented at a national policy workshop, highlighted mixed outcomes in health indicators and implementation challenges, but reinforced the program’s value in expanding maternal and child healthcare.
+[Read evaluation report] (https://www.unicef.org/pakistan/media/3096/file/Performance%20Evaluation%20Report%20-%20Lady%20Health%20Workers%20Programme%20in%20Pakistan.pdf)
 
 ---
 
@@ -61,4 +64,4 @@ This national evaluation examined the viability of Pakistan’s Lady Health Work
 **Year:** 2020
 
 This podcast explored how the COVID-19 pandemic impacted children, teachers, and non-state schools in Pakistan, particularly low-fee private and non-formal models. I co-produced the episode and co-authored a blog that reflected on the risks of permanent school closures and the need for more resilient education systems. The work contributed to ongoing discussions on crisis-responsive education policy.  
-[Listen to podcast](#) | [Read blog](#)
+[Listen to podcast](https://www.opml.co.uk/insights/podcast-how-has-covid-19-affected-children-and-teachers-non-state-schools-pakistan)
