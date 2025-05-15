@@ -15,12 +15,6 @@ I am particularly interested in how tenants and newcomers exercise agency within
 
 ---
 
-# Publications:
-
-* Ashraf, M., Shahzad, S., Sequeria, P., **Bashir, A.**, & Azmat, S. K. (2024). Understanding Challenges Women Face in Flood‐Affected Areas to Access Sexual and Reproductive Health Services: A Rapid Assessment from a Disaster‐Torn Pakistan. BioMed research international, 2024(1), 1113634.
-
-
-
 # Honors & Awards:
 * 4-times Four-Year Fellowships (4YF), UBC / Ph.D. Award 
 * 4-times International Tuition Award, UBC / Ph.D. Award 
