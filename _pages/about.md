@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student at the [School of Community and Regional Planning (SCARP)](https://scarp.ubc.ca/) at the University of British Columbia (UBC), under the superviosn of [Dr Julia Harten](https://scarp.ubc.ca/directory/julia-harten).  
+I am a PhD student at the [School of Community and Regional Planning (SCARP)](https://scarp.ubc.ca/) at the University of British Columbia (UBC), under the superviosn of [Dr. Julia Harten](https://scarp.ubc.ca/directory/julia-harten).  
 
 My dissertation, *Housing at the Bottom: Uncovering the Realities of Precarious Rental Housing in Urban Canada*, examines how low-income renters navigate unaffordable, informal, and insecure housing arrangements in Canadian cities. My work sits at the intersection of urban planning, justice theory, and housing policy, and draws on both traditional methods and computational tools like natural language processing and spatial analysis.  
 
