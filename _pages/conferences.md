@@ -10,7 +10,17 @@ redirect_from:
 {% include base_path %}
 
 ======
+### 2025
 
-I attended the following conferences:
+**Living Underground in Vancouver: Studying Basement Suites Via Online Ads**  
+*Urban Affairs Association Annual Conference*, Vancouver, Canada  
+Co-presented with Dr. Julia Harten
 
-* UAA
+---
+
+### 2024
+
+**Living Underground in Vancouver: Studying Basement Suites Via Online Ads**  
+*ACSP Annual Conference*, Seattle, United States  
+Co-presented with Dr. Julia Harten
+
