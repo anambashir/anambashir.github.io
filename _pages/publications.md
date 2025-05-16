@@ -5,8 +5,7 @@ author_profile: true
 hide_title: true
 ---
 
-
-### Peer-Reviewed Journal Articles
+### Journal Articles (Peer Reviewed)
 
 Harten, J. G., Jones, C., Peñaloza, A., DeAngelis, M., **Bashir, A.**, & Leung, C. (2024).  
 *Lessons from the First Round of Mandatory Housing Needs Reporting in British Columbia, Canada*.  
@@ -28,4 +27,3 @@ _BioMed Research International, 2024_, Article ID 1113634.
 *Explaining Ethnic Minority Immigrant Women’s Motivation for Informal Entrepreneurship: An Institutional Incongruence Perspective*.  
 In V. Ramadani, L.-P. Dana, & V. Ratten (Eds.), _Informal Ethnic Entrepreneurship: Future Research Paradigms for Creating Innovative Business Activity_ (pp. 259–287). Springer.  
 [Springer Link](https://link.springer.com/chapter/10.1007/978-3-319-99064-4_17)
-
