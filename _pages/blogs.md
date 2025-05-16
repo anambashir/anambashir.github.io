@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Blog Posts"
 permalink: /blogs/
 author_profile: true
 hide_title: true
