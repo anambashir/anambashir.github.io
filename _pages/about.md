@@ -15,6 +15,8 @@ My dissertation, *Housing at the Bottom: Uncovering the Realities of Precarious 
 
 I am particularly interested in how tenants and newcomers exercise agency within constrained rental markets, and how planning and policy interventions can be reimagined to address housing inequity.  
 
+[Google Scholar](https://scholar.google.ca/citations?user=Gf5mAMYAAAAJ)  
+
 ### Education  
 - **PhD (in progress)** Urban Planning, University of British Columbia  
 - **MSc** Local Economic Development, London School of Economics and Political Science (LSE)  
@@ -27,7 +29,3 @@ I am particularly interested in how tenants and newcomers exercise agency within
 * 4-time International Tuition Award, UBC  
 * 4-time President’s Academic Excellence Initiative PhD Award, UBC  
 * CHEC Emerging Housing Scholar 2023 – Canadian Housing Evidence Collaborative
-
----
- 
-- [Google Scholar](https://scholar.google.ca/citations?user=Gf5mAMYAAAAJ)  
