@@ -5,7 +5,7 @@ author_profile: true
 hide_title: true
 ---
 
-### Peer-Reviewed Journal Articles
+#### Peer-Reviewed Journal Articles
 
 Harten, J. G., Jones, C., Peñaloza, A., DeAngelis, M., **Bashir, A.**, & Leung, C. (2024).  
 *Lessons from the First Round of Mandatory Housing Needs Reporting in British Columbia, Canada*.  
