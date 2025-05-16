@@ -1,7 +1,8 @@
 ---
-layout: single
+layout: archive
 permalink: /publications/
 author_profile: true
+hide_title: true
 ---
 
 ### Journal Articles (Peer Reviewed)
