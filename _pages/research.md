@@ -12,11 +12,12 @@ Over these years, I led and supported projects that spanned multiple countries a
 
 ---
 
-### Girl Rising Education Programs Evaluation  
+### Performance Evalaution of Education Programs   
 **Role:** Lead Quantitative Researcher  
-**Organization:** Miske Witt Associates International & Girl Rising  
+**Organization:** Girl Rising & Miske Witt Associates International   
 **Location:** Pakistan, Kenya, India  
 **Years:** 2022–2023
+
 **Funding:** Echidna Giving  
 
 As the lead quantitative researcher, I developed evaluation tools to assess Girl Rising’s education programs across three countries. I led field team training and supervised data collection. I analyzed data in STATA to measure program impact on student confidence, agency, and gender-equitable beliefs. I also contributed to report writing and interpretation of findings.  
@@ -28,6 +29,7 @@ As the lead quantitative researcher, I developed evaluation tools to assess Girl
 **Organization:** Oxford Policy Management (OPM) & UNICEF  
 **Location:** Kenya  
 **Years:** 2019–2021  
+
 **Funding:** UNICEF  
 
 I led quantitative components of a quasi-experimental evaluation of a solar energy access pilot in Kilifi and Garissa counties. Responsibilities included survey design, field team training, remote data collection during COVID-19, and quantitative analysis. I also developed an interactive dashboard for policy briefs and presented findings at a UNICEF workshop.  
@@ -40,6 +42,7 @@ I led quantitative components of a quasi-experimental evaluation of a solar ener
 **Organization:** Oxford Policy Management (OPM)  
 **Location:** Pakistan  
 **Years:** 2018–2021 
+
 **Funding:** UK Foreign & Commonwealth Office  
 
 I managed several components of the PESP evaluation. I led the Infrastructure Evaluation Study, co-authored the Community Study, and authored a supplementary update to the School Infrastructure Report. Responsibilities included coordinating with donors, managing evaluation teams, leading theory of change workshops, and producing outputs aligned with OECD-DAC criteria.  
@@ -51,7 +54,8 @@ I managed several components of the PESP evaluation. I led the Infrastructure Ev
 **Role:** Qualitative Researcher  
 **Organization:** Oxford Policy Management (OPM) & UNICEF  
 **Location:** Pakistan  
-**Years:** 2019–2020  
+**Years:** 2019–2020 
+
 **Funding:** UNICEF 
 
 This national evaluation examined the viability of Pakistan’s Lady Health Workers Programme following devolution. I led the qualitative research across all provinces, conducting focus group discussions and stakeholder interviews with senior government officials. I also managed data analysis and co-authored the final evaluation report. The findings, presented at a national policy workshop, highlighted mixed outcomes in health indicators and implementation challenges, but reinforced the program’s value in expanding maternal and child healthcare.  
