@@ -9,17 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-### 2025
+### Living Underground in Vancouver: Studying Basement Suites Via Online Ads  
+**Co-presented with Dr. Julia Harten**
 
-**Living Underground in Vancouver: Studying Basement Suites Via Online Ads**  
-*Urban Affairs Association Annual Conference*, Vancouver, Canada  
-Co-presented with Dr. Julia Harten
-
----
-
-### 2024
-
-**Living Underground in Vancouver: Studying Basement Suites Via Online Ads**  
-*ACSP Annual Conference*, Seattle, United States  
-Co-presented with Dr. Julia Harten
-
+- *Urban Affairs Association Annual Conference*, Vancouver, Canada — **2025**  
+- *ACSP Annual Conference*, Seattle, United States — **2024**
