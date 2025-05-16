@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /blogs/
 author_profile: true
 hide_title: true
