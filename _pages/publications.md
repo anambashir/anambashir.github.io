@@ -2,7 +2,6 @@
 layout: single
 permalink: /publications/
 author_profile: true
-hide_title: true
 ---
 
 ### Journal Articles (Peer Reviewed)
