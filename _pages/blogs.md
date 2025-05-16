@@ -3,6 +3,7 @@ layout: archive
 title: "Blog Posts"
 permalink: /blogs/
 author_profile: true
+hide_title: true
 ---
 
 ### Podcast: Education in the COVID-19 Crisis  
@@ -20,5 +21,4 @@ This podcast explored how the COVID-19 pandemic impacted children, teachers, and
 **Year:** 2018  
 
 This blog post summarized findings from my qualitative research on South Asian women’s informal entrepreneurship in East London. Drawing on in-depth interviews, the piece explores how immigration status, childcare responsibilities, and systemic exclusion from formal labour markets push many women into informal work—particularly through community-based, ethnic economies.  
-
 [Read the blog](https://blogs.lse.ac.uk/southasia/2018/02/01/under-the-radar-explaining-participation-of-ethnic-minority-women-in-the-informal-economy/)
