@@ -26,4 +26,8 @@ I am particularly interested in how tenants and newcomers exercise agency within
 * 4-time Four-Year Fellowship (4YF), UBC  
 * 4-time International Tuition Award, UBC  
 * 4-time President’s Academic Excellence Initiative PhD Award, UBC  
-* CHEC Emerging Housing Scholar 2023 – Canadian Housing Evidence Collaborative  
+* CHEC Emerging Housing Scholar 2023 – Canadian Housing Evidence Collaborative
+
+---
+ 
+- [Google Scholar](https://scholar.google.ca/citations?user=Gf5mAMYAAAAJ)  
