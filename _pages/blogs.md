@@ -1,7 +1,8 @@
 ---
-layout: single
+layout: archive
 permalink: /blogs/
 author_profile: true
+hide_title: true
 ---
 
 ### Podcast: Education in the COVID-19 Crisis  
