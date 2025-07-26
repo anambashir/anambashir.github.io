@@ -23,7 +23,9 @@ I am particularly interested in how tenants and newcomers exercise agency within
 ---
 
 ### Honors & Awards  
-* 4-time Four-Year Fellowship (4YF), UBC  
-* 4-time International Tuition Award, UBC  
+* Vanier Canada Graduate Scholarships, Social Sciences and Humanities Research Council (SSHRC), 2025-2028
+* H. Peter Oberlander Scholarship in Community and Regional Planning, University of British Columbia, 2025
+* 4-time Four-Year Fellowship (4YF), UBC , 2023-2025
+* 4-time International Tuition Award, UBC
 * 4-time President’s Academic Excellence Initiative PhD Award, UBC  
 * CHEC Emerging Housing Scholar 2023 – Canadian Housing Evidence Collaborative
